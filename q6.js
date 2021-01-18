@@ -8,25 +8,25 @@ let avgGrade = (david + vinoth + divya + ishitha + thomas) / 5;
 
 if (avgGrade < 60) {
 
-console.log('F')
+console.log('F');
 }
 else if (avgGrade < 70) {
 
-    console.log('D')
+    console.log('D');
 
 }
 else if (avgGrade < 80) {
 
-    console.log('C')
+    console.log('C');
 
 }
 else if (avgGrade < 90) {
 
-    console.log('B')
+    console.log('B');
 
 }
 else if (avgGrade < 100) {
 
-    console.log('A')
+    console.log('A');
 
 }    
