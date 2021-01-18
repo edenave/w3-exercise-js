@@ -1,3 +1,4 @@
+"use strict"
 let number1 = Number( prompt("Insert first number"));
 let number2 = Number( prompt("Insert second number"));
 
